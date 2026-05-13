@@ -11,13 +11,13 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arsallls&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=arsallls&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arsallls&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://streak-stats.demolab.com?user=arsallls&theme=github-dark-blue&hide_border=true" />
 
 <br/>
 <br/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsallls&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsallls&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 <br/>
 <br/>
