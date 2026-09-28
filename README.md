@@ -11,10 +11,7 @@ I'm a senior at Purdue University. I love building projects — mostly around ma
 
 <br/>
 
-<!-- Spotify: connect once at https://spotify-recently-played.jeffreyca.workers.dev/login
-     then replace SPOTIFY_ID below with your Spotify user ID and delete these comment markers.
-[![Spotify](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=SPOTIFY_ID&count=1&theme=dark&width=400)](https://open.spotify.com/user/SPOTIFY_ID)
--->
+[![Spotify](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=cdmzif9clj5e9gvhxl2i77aa5&count=1&theme=dark&width=400)](https://open.spotify.com/user/cdmzif9clj5e9gvhxl2i77aa5)
 
 <br/>
 
