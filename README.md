@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=99999&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arsal" alt="Typing SVG" />
 
-I'm a senior at Purdue University. I love building projects — mostly around machine learning, where I spend my time training models, breaking them, and figuring out how to make them useful outside a notebook.
+I'm a senior at Purdue University. Outside of class, you'll usually find me playing video games, hanging out with friends, or trying whatever new restaurant or cafe I've been meaning to check out.
 
 <br/>
 
