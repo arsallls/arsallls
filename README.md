@@ -13,8 +13,4 @@ I'm a senior at Purdue University. Outside of class, you'll usually find me play
 
 [![Spotify](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=cdmzif9clj5e9gvhxl2i77aa5&count=1&theme=dark&width=400)](https://open.spotify.com/user/cdmzif9clj5e9gvhxl2i77aa5)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=arsallls&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
 </div>
