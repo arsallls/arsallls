@@ -11,7 +11,7 @@ I'm a senior at Purdue University. Outside of class, you'll usually find me play
 
 <br/>
 
-[![Spotify](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=cdmzif9clj5e9gvhxl2i77aa5&count=1&theme=dark&width=400)](https://open.spotify.com/user/cdmzif9clj5e9gvhxl2i77aa5)
+<a href="https://open.spotify.com/playlist/3EukTuH5ybA1B3YYHCXkyL"><img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da848d52477d62342d8c426572eb" width="200" alt="Cooking playlist on Spotify" style="border-radius:12px" /></a>
 
 <br/>
 
